@@ -1,0 +1,6 @@
+git add .
+git commit -m "All files sync"
+git push 
+
+
+git clone
